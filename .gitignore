@@ -24,3 +24,10 @@ hs_err_pid*
 
 # .idea/* file
 .idea
+
+# gradle
+gradle
+.gradle
+
+# build
+build
